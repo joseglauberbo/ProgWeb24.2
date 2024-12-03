@@ -16,10 +16,10 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 
 | Nº Aula | Data    | Tópicos | Conteúdos | Materiais Utilizados |
 |---------|---------|---------|-----------|----------------------|
-| 1       | 18/11   | Aula introdutória à disciplina | - Apresentação do curso: ementa, avaliações, obrigatoriedades e descrição do projeto final da disciplina. | (aulas/Aula1.pdf) |
-| 2       | 25/11   | História e evolução do desenvolvimento web | - Panorama histórico do desenvolvimento web.<br>- Ferramentas e tecnologias para desenvolvimento. | (aulas/Aula2.pdf)|
-| 3       | 27/11   | Versionamento de código e introdução ao JavaScript | - Fundamentos do versionamento de código.<br>- Introdução ao JavaScript.<br> | (aulas/Aula3.pdf) |
-| 4       | 02/12   | HTML, CSS e JavaScript | - Fundamentos de HTML, CSS e JavaScript para desenvolvimento web - - Miniteste 1. | (aulas/Aula4.pdf) |
+| 1       | 18/11   | Aula introdutória à disciplina | - Apresentação do curso: ementa, avaliações, obrigatoriedades e descrição do projeto final da disciplina. | [Slide aula 1](aulas/Aula1.pdf) |
+| 2       | 25/11   | História e evolução do desenvolvimento web | - Panorama histórico do desenvolvimento web.<br>- Ferramentas e tecnologias para desenvolvimento. | [Slide aula 2](aulas/Aula2.pdf)|
+| 3       | 27/11   | Versionamento de código e introdução ao JavaScript | - Fundamentos do versionamento de código.<br>- Introdução ao JavaScript.<br> | [Slide aula 3](aulas/Aula3.pdf) |
+| 4       | 02/12   | HTML, CSS e JavaScript | - Fundamentos de HTML, CSS e JavaScript para desenvolvimento web - - Miniteste 1. | [Especificação laboratório 1](aulas/Aula4.pdf) |
 | 5       | 04/12   | Node.js, Express e arquitetura REST | - Introdução ao Node.js e Express.<br>- Conceitos de arquitetura REST. | (aulas/Aula5.pdf) |
 | 6       | 09/12   | JavaScript x TypeScript e API RESTful | - Diferenças entre JavaScript e TypeScript.<br>- Introdução às APIs RESTful. |  |
 | 7       | 11/12   | Métodos HTTP e tratamento de respostas | - Métodos HTTP e seus usos.<br>- Códigos de resposta e mensagens de erro.<br>- Miniteste 2. |  |
