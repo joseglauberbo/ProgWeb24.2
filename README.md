@@ -23,7 +23,7 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 5       | 04/12   | JS, Node.js, express e arquitetura REST | - Introdução ao Node.js e Express.<br>- Conceitos de arquitetura REST. | [Slide aula 5](aulas/Aula5.pdf)  |
 | 6       | 09/12   | JavaScript x TypeScript e API RESTful | - Diferenças entre JavaScript e TypeScript.<br>- Introdução às APIs RESTful. |[Slide aula 6](aulas/Aula6.pdf) [Link formulário aula 09/12]: https://forms.gle/EACmrsw6Tw5xyrvH7 |
 | 7       | 11/12   | Métodos HTTP e tratamento de respostas | - Métodos HTTP e seus usos.<br>- Códigos de resposta e mensagens de erro.<br>- Miniteste 2. |  |
-| 8       | 16/12   | Acompanhamento de projeto | - Orientação e feedback sobre o projeto em andamento. |  |
+| 8       | 16/12   | Arquitetura de camadas I | - Introdução ao conceito de arquitetura de camadas. | (aulas/Aula7.pdf) |
 | 9       | 17/12   | Definição de requisitos | - Conceitos e técnicas para definição de requisitos. |  |
 | 10      | 03/02   | Revisão de conteúdo | - Revisão dos tópicos até códigos de resposta.<br>- Atividade prática de revisão. |  |
 | 11      | 05/02   | Arquitetura de camadas I | - Introdução ao conceito de arquitetura de camadas. |  |
