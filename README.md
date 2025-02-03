@@ -24,7 +24,7 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 6       | 09/12   | JavaScript x TypeScript e API RESTful | - Diferenças entre JavaScript e TypeScript.<br>- Introdução às APIs RESTful. |[Slide aula 6](aulas/Aula6.pdf) [Link formulário aula 09/12]: https://forms.gle/EACmrsw6Tw5xyrvH7 |
 | 7       | 11/12   | Acompanhamento projeto e Miniteste 2 | - Miniteste 2.<br> |  |
 | 8       | 16/12   | Introdução à Arquitetura de camadas. Acompanhamento projeto. | - Introdução ao conceito de arquitetura de camadas. | [Slide aula 8](aulas/Aula7.pdf) |
-| 9       | 03/02   | Definição de requisitos. Modelo de negócios. Métodos HTTP, códigos de resposta e mensagens de erro. | - Atividade de revisão. no swagger, para começar documentação. | [Slide aula 9](aulas/Aula9.pdf) [Slide aula 9](aulas/Aula91.pdf) |
+| 9       | 03/02   | Definição de requisitos. Modelo de negócios. Métodos HTTP, códigos de resposta e mensagens de erro. | - Atividade de revisão. no swagger, para começar documentação. | [Slide aula 9](aulas/aula9.pdf) [Slide aula 9](aulas/aula91.pdf) |
 | 10      | 05/02   | Laboratório de Banco de Dados. | - Atividade prática de Banco de Dados. |  |
 | 11      | 10/02   | Miniteste 3.<br> | Miniteste 3.<br> |  |
 | 12      | 12/02   | Arquitetura de camadas | - - Mostrando como dividir bem uma API, com todos os seus elementos de responsabilidade. (PRÁTICA) |  |
