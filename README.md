@@ -21,7 +21,7 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 3       | 27/11   | Versionamento de código e introdução ao JavaScript | - Fundamentos do versionamento de código.<br>- Introdução ao JavaScript.<br> | [Slide aula 3](aulas/Aula3.pdf) |
 | 4       | 02/12   | HTML, CSS e JavaScript | - Fundamentos de HTML, CSS e JavaScript para desenvolvimento web - - Miniteste 1. | Miniteste 1.<br> [Especificação Laboratório prático e Miniteste 1](aulas/Aula4.pdf) |
 | 5       | 04/12   | JS, Node.js, express e arquitetura REST | - Introdução ao Node.js e Express.<br>- Conceitos de arquitetura REST. | [Slide aula 5](aulas/Aula5.pdf)  |
-| 6       | 09/12   | JavaScript x TypeScript e API RESTful | - Diferenças entre JavaScript e TypeScript.<br>- Introdução às APIs RESTful. |[Slide aula 6](aulas/Aula6.pdf) [Link formulário aula 09/12]: https://forms.gle/EACmrsw6Tw5xyrvH7 |
+| 6       | 09/12   | JavaScript x TypeScript e API RESTful | - Diferenças entre JavaScript e TypeScript.<br>- Introdução às APIs RESTful. |[Slide aula 6](aulas/Aula6.pdf) <br> [Link formulário aula 09/12]: https://forms.gle/EACmrsw6Tw5xyrvH7 |
 | 7       | 11/12   | Acompanhamento projeto e Miniteste 2 | - Miniteste 2.<br> |  |
 | 8       | 16/12   | Introdução à Arquitetura de camadas. Acompanhamento projeto. | - Introdução ao conceito de arquitetura de camadas. | [Slide aula 8](aulas/Aula7.pdf) |
 | 9       | 03/02   | Definição de requisitos. Modelo de negócios. Métodos HTTP, códigos de resposta e mensagens de erro. | - Atividade de revisão. no swagger, para começar documentação. | [Slide aula 9](aulas/aula9.pdf) [Slide aula 9](aulas/aula91.pdf) |
