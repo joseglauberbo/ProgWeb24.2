@@ -27,7 +27,7 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 9       | 03/02   | Definição de requisitos. Modelo de negócios. Métodos HTTP, códigos de resposta e mensagens de erro. | - Atividade de revisão. no swagger, para começar documentação. | [Slide aula 9](aulas/aula9.pdf) [Slide aula 9](aulas/aula91.pdf) |
 | 10      | 05/02   | Laboratório de Banco de Dados. | - Atividade prática de Banco de Dados. | [Laboratório - Conexão com Banco de Dados](aulas/lab_bd.pdf) |
 | 11      | 10/02   | Miniteste 3.<br> | Miniteste 3.<br> | [Miniteste 3] - https://forms.gle/fDo8Q5wANjTG82Ey5 |
-| 12      | 12/02   | Arquitetura de camadas | - - Mostrando como dividir bem uma API, com todos os seus elementos de responsabilidade. (PRÁTICA) |  |
+| 12      | 12/02   | Arquitetura de camadas | - - Mostrando como dividir bem uma API, com todos os seus elementos de responsabilidade. (PRÁTICA) | [Slide aula 12](aulas/aula12.pdf) |
 | 13      | 17/02   | Acompanhamento projeto.| - Acompanhamento |  |
 | 14      | 19/02   | Acompanhamento projeto. | - Entrega 1.<br> |  |
 | 15      | 24/02   | Padrões arquiteturais. | - Boas práticas de implementação. |  |
