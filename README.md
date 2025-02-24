@@ -30,8 +30,8 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 12      | 12/02   | Arquitetura de camadas | - - Mostrando como dividir bem uma API, com todos os seus elementos de responsabilidade. (PRÁTICA) | [Slide aula 12](aulas/aula12.pdf) |
 | 13      | 17/02   | Acompanhamento projeto.| - Acompanhamento |  |
 | 14      | 19/02   | Acompanhamento projeto. | - Entrega 1.<br> |  |
-| 15      | 24/02   | Padrões arquiteturais. | - Boas práticas de implementação. |  |
-| 16      | 26/02   | Funcionalidades avançadas e boas práticas de APIs RESTful I e Miniteste 4. | - Miniteste 4.<br> |  |
+| 15      | 24/02   | Funcionalidades avançadas e boas práticas de APIs RESTful I | - Boas práticas de implementação. | [Slide aula 15](aulas/aula15.pdf) |
+| 16      | 26/02   | Padrões arquiteturais. e Miniteste 4. | - Miniteste 4.<br> |  |
 | 17      | 27/02   | Deploy de aplicações | - Introdução ao processo de deploy de aplicações. |  |
 | 18      | 05/03   | Material introdutório sobre Teste de backend. | - Fundamentos de teste de Backend.<br>- Atividade complementar online. |  |
 | 19      | 10/03   | Teste de Backend. | -  Aula sobre como desenvolver bons testes de API. |  |
