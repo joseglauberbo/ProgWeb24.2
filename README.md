@@ -33,9 +33,9 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 15      | 24/02   | Funcionalidades avançadas e boas práticas de APIs RESTful I | - Boas práticas de implementação. | [Slide aula 15](aulas/aula15.pdf) |
 | 16      | 26/02   | Teste de Backend. | -  Aula sobre como desenvolver bons testes de API. |  [Slide aula 16](aulas/aula16.pdf) |
 | 17      | 27/02   | Teste de Backend. | -  Exercício e Miniteste 4.<br>. | [Documento Miniteste 4](aulas/docAula16.pdf) |
-| 18      | 05/03   | Material introdutório sobre Teste de backend. | - Fundamentos de teste de Backend.<br>- Atividade complementar online. |  |
-| 19      | 10/03   | Padrões arquiteturais |  |  |
-| 20      | 12/03   | Acompanhamento projeto.| - Acompanhamento |  |
+| 18      | 10/03   | Laboratório sobre Autenticação e Autorização e Dúvidas sobre Projeto. |  |  |
+| 19      | 12/03   | Acompanhamento projeto.| - Acompanhamento |  |
+| 20      | 14/03   | Aula de conteúdo extra online sobre Validação de dados.| |  |
 | 21      | 17/03   | Acompanhamento projeto.| - Entrega 2.<br> |  |
 | 22      | 19/03   | Frameworks web frontend I | - Frameworks web para frontend. |  |
 | 23      | 24/03   | Frameworks web frontend II e  Miniteste 5. | - Miniteste 5.<br> |  |
