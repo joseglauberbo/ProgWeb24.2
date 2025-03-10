@@ -33,7 +33,7 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 15      | 24/02   | Funcionalidades avançadas e boas práticas de APIs RESTful I | - Boas práticas de implementação. | [Slide aula 15](aulas/aula15.pdf) |
 | 16      | 26/02   | Teste de Backend. | -  Aula sobre como desenvolver bons testes de API. |  [Slide aula 16](aulas/aula16.pdf) |
 | 17      | 27/02   | Teste de Backend. | -  Exercício e Miniteste 4.<br>. | [Documento Miniteste 4](aulas/docAula16.pdf) |
-| 18      | 10/03   | Laboratório sobre Autenticação e Autorização e Dúvidas sobre Projeto. | Acompanhamento e Lab | [Laboratório Autenticação e Autorização](aulas/lab_aut_auto).pdf) [Link formulário Miniteste 4]: https://forms.gle/Z8rmjk1XF6933yYs7 |
+| 18      | 10/03   | Laboratório sobre Autenticação e Autorização e Dúvidas sobre Projeto. | Acompanhamento e Lab | [Laboratório Autenticação e Autorização](aulas/lab_aut_auto.pdf) [Link formulário Miniteste 4]: https://forms.gle/Z8rmjk1XF6933yYs7 |
 | 19      | 12/03   | Acompanhamento projeto.| - Acompanhamento |  |
 | 20      | 14/03   | Aula de conteúdo extra online sobre Validação de dados.| |  |
 | 21      | 17/03   | Acompanhamento projeto.| - Entrega 2.<br> |  |
