@@ -35,7 +35,7 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 17      | 27/02   | Teste de Backend. | -  Exercício e Miniteste 4.<br>. | [Documento Miniteste 4](aulas/docAula16.pdf) |
 | 18      | 10/03   | Laboratório sobre Autenticação e Autorização e Dúvidas sobre Projeto. | Acompanhamento e Lab | [Laboratório Autenticação e Autorização](aulas/lab_aut_auto.pdf) [Link formulário Miniteste 4]: https://forms.gle/Z8rmjk1XF6933yYs7 |
 | 19      | 12/03   | Acompanhamento projeto.| - Acompanhamento |  |
-| 20      | 14/03   | Aula de conteúdo extra online sobre Validação de dados.| |  |
+| 20      | 14/03   | Aula de conteúdo extra online sobre Validação de dados.| Contéudo útil para 2ª entrega. | [Validação de dados backend](aulas/valiDados.pdf) |
 | 21      | 17/03   | Acompanhamento projeto.| - Entrega 2.<br> |  |
 | 22      | 19/03   | Frameworks web frontend I | - Frameworks web para frontend. |  |
 | 23      | 24/03   | Frameworks web frontend II e  Miniteste 5. | - Miniteste 5.<br> |  |
