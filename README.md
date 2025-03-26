@@ -38,8 +38,8 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 20      | 14/03   | Aula de conteúdo extra online sobre Validação de dados.| Contéudo útil para 2ª entrega. | [Validação de dados backend](aulas/valiDados.pdf) |
 | 21      | 17/03   | Acompanhamento projeto.| - Entrega 2.<br> | [Tutorial Mocha e Chai - Testes de Backend](aulas/mochaEchai.pdf) e [Link formulário submissão projeto](https://forms.gle/vTR6w1GN6R3Sx2Ns5) |
 | 22      | 19/03   | Frameworks web frontend I | - Frameworks web para frontend. | [Slide aula 22](aulas/aula22.pdf) | 
-| 23      | 24/03   | Frameworks web frontend II e  Miniteste 5. | - Miniteste 5.<br> |  |
-| 24      | 26/03   | Acompanhamento de projeto | - Orientação e feedback contínuo sobre o projeto. |  |
+| 23      | 24/03   | Acompanhamento de projeto | - Orientação e feedback contínuo sobre o projeto. |  |
+| 24      | 26/03   | Frameworks web frontend II e  Miniteste 5. | - Miniteste 5.<br> | [Miniteste 05](aulas/mt05.pdf) [Link formulário Miniteste 5]: https://forms.gle/2c8Hfx6m5Yf8VfbA7|
 | 25      | 31/03   | Acompanhamento de projeto | - Orientação e feedback contínuo sobre o projeto. |  |
 | 26      | 02/04   | Testes de frontend I | - Fundamentos de teste de Backend.<br> |  |
 | 27      | 07/04   | Testes de frontend II e Entrega 3 | - Entrega 3.<br> |  |
