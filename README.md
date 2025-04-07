@@ -42,7 +42,7 @@ Este documento descreve o planejamento das aulas, com os tópicos abordados, con
 | 24      | 26/03   | Frameworks web frontend II e  Miniteste 5. | - Miniteste 5.<br> | [Miniteste 05](aulas/mt05.pdf) <br> [Link formulário Miniteste 5]: https://forms.gle/2c8Hfx6m5Yf8VfbA7|
 | 25      | 31/03   | Acompanhamento de projeto | - Orientação e feedback contínuo sobre o projeto. |  |
 | 26      | 02/04   | Testes de frontend I | - Fundamentos de teste de Backend.<br> |  |
-| 27      | 07/04   | Testes de frontend II e Entrega 3 | - Entrega 3.<br> |  |
+| 27      | 07/04   | Testes de frontend II e Entrega 3 | - Entrega 3.<br> | [Link formulário Entrega 3]: https://forms.gle/6oyhsvkZnyXRfzCZ9 e <br> [Link documentação frontend](https://docs.google.com/document/d/1PuvfzEdcb2zUxdlVuWTbhWL-DEDPKddnIGumAft8OfM/edit?usp=sharing)  |
 | 28      | 09/04   | Apresentação do projeto final | - Apresentação e avaliação do projeto final da disciplina. |  |
 | 29      | 14/04   | Apresentação do projeto final | - Apresentação e avaliação do projeto final da disciplina. |  |
 | 30      | 16/04   | Reposição | - Conteúdo de reposição conforme necessidade. |  |
